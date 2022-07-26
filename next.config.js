@@ -16,16 +16,16 @@ module.exports = {
     network: 'mainnet',
     chainId: 1,
     pageHeader : 'Lunar Flare ATM DCNFT NFT',
-    pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
+    pageText : 'Create Generational Wealth',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://FarmFolkNFT.com/',
-    mainWWW: 'https://FarmFolkNFT.com/',
+    www: 'https://LunarFlareGroup.com/',
+    mainWWW: 'https://LunarFlareGroup.com/',
     title: 'Lunar Flare ATM DCNFT NFT',
     links : {
-      opensea : "https://opensea.io/collection/farm-folk-nft",
-      discord : "https://discord.com/invite/hfyRXCuc",
-      twitter : "https://twitter.com/FarmFolkNFT"
+      opensea : "https://opensea.io/collection/",
+      Telegram : "https://t.me/LunarFlarePortal",
+      twitter : "https://twitter.com/lunarflaregroup"
     },
     maxMint: 3000,
     maxMintCount: 50,
