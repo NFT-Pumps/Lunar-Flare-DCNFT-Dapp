@@ -5,7 +5,7 @@ module.exports = {
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
     siteTitle: "Lunar Flare ATM DCNFT NFT Minting Dapp",
-    contractAddress: "0x11ce921929a81D3926E80AEc264F6e38A8685C07",
+    contractAddress: "",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
@@ -19,12 +19,12 @@ module.exports = {
     pageText : 'Create Generational Wealth',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://LunarFlareGroup.com/',
-    mainWWW: 'https://LunarFlareGroup.com/',
+    www: 'https://lunarflaregroup.com/',
+    mainWWW: 'https://lunarflaregroup.com/',
     title: 'Lunar Flare ATM DCNFT NFT',
     links : {
-      opensea : "https://opensea.io/collection/",
-      Telegram : "https://t.me/LunarFlarePortal",
+      opensea : "https://opensea.io/collection",
+      telegram : "https://t.me/LunarFlarePortal",
       twitter : "https://twitter.com/lunarflaregroup"
     },
     maxMint: 3000,
