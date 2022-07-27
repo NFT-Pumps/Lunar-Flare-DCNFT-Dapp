@@ -104,12 +104,12 @@ const MintPage = () => {
                 </h4>
                 <a
                   onClick={() => walletBridge1.showWeb3Modal()}
-                  className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#C2C2C2" }}
+                  className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#fb5340" }}
                 >
                   Connect Wallet
                 </a>
                 <Link href={process.env.mainWWW}>
-                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#fb5340" }}>
+                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#000000" }}>
                     Back Home
                   </a>
                 </Link>
@@ -154,7 +154,7 @@ const MintPage = () => {
                         : <h1 style={{ color: "#e9e2d5"}}>You are not on the whitelist</h1>}
                       <a
                         onClick={() => walletBridge1.disconnect()}
-                        className="btn btn-md m-t-30 btn-outline-dark" style={{ backgroundColor: "#741ea1" }}
+                        className="btn btn-md m-t-30 btn-outline-dark" style={{ backgroundColor: "#fb5340" }}
                       >
                         Disconnect Wallet
                       </a>
