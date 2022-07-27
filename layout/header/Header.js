@@ -63,7 +63,7 @@ const Header = () => {
                   </Link>
                 </NavItem>
                 <NavItem>
-                  <Link href={process.env.links.discord}>
+                  <Link href={process.env.links.telegram}>
                     <a
                       className={
                         router.pathname == "/basic"
@@ -71,7 +71,7 @@ const Header = () => {
                           : "nav-link"
                       }
                     >
-                      Discord
+                      telegram
                     </a>
                   </Link>
                 </NavItem>

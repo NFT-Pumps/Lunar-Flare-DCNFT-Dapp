@@ -168,7 +168,7 @@ const AdminComponents = () => {
                   Connect Wallet
                 </a>
                 <Link href={process.env.mainWWW}>
-                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#ce3a7f" }}>
+                  <a className="btn btn-md m-t-30  btn-outline-light " style={{ backgroundColor: "#fb5340" }}>
                     Back Home
                   </a>
                 </Link>
