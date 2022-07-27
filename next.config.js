@@ -24,7 +24,7 @@ module.exports = {
     title: 'Lunar Flare ATM DCNFT NFT',
     links : {
       opensea : "https://opensea.io/collection",
-      discord : "https://t.me/LunarFlarePortal",
+      telegram : "https://t.me/LunarFlarePortal",
       twitter : "https://twitter.com/lunarflaregroup"
     },
     maxMint: 3000,
