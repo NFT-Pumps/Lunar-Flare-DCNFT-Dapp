@@ -5,7 +5,7 @@ module.exports = {
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
     siteTitle: "Lunar Flare ATM DCNFT NFT Minting Dapp",
-    contractAddress: "0x11ce921929a81D3926E80AEc264F6e38A8685C07",
+    contractAddress: "",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
@@ -16,16 +16,16 @@ module.exports = {
     network: 'mainnet',
     chainId: 1,
     pageHeader : 'Lunar Flare ATM DCNFT NFT',
-    pageText : 'Mint and collect the Rootinest, Tootinest NFT ever.',
+    pageText : 'Create Generational Wealth',
     //mintType: "Whitelist",
     blockExplorerURL: 'https://.etherscan.io/',
-    www: 'https://FarmFolkNFT.com/',
-    mainWWW: 'https://FarmFolkNFT.com/',
+    www: 'https://lunarflaregroup.com/',
+    mainWWW: 'https://lunarflaregroup.com/',
     title: 'Lunar Flare ATM DCNFT NFT',
     links : {
-      opensea : "https://opensea.io/collection/farm-folk-nft",
-      discord : "https://discord.com/invite/hfyRXCuc",
-      twitter : "https://twitter.com/FarmFolkNFT"
+      opensea : "https://opensea.io/collection",
+      discord : "https://t.me/LunarFlarePortal",
+      twitter : "https://twitter.com/lunarflaregroup"
     },
     maxMint: 3000,
     maxMintCount: 50,
