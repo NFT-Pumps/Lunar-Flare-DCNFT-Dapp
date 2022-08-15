@@ -5,12 +5,12 @@ module.exports = {
   analyticsId: '7vsHWbYwcKpA3lFTng2Qe9iNzE7',
   env: {
     siteTitle: "Lunar Flare ATM DCNFT NFT Minting Dapp",
-    contractAddress: "",
+    contractAddress: "0x7c5F0123FFAc682BDbfC8F29C13d2013F5749fB4",
     infuraID: "045e9c65387a4200aa8559c347fa19a4",
     defaultGas: 125000,//75000,
     mintType : "Pre-Sale", //Pre-Sale Public
     enforceWhitelist : true,
-    ethValue : "0.06",
+    ethValue : "0.155",
     ethWLValue : "0.00",
     debug: false,
     network: 'mainnet',
@@ -23,11 +23,11 @@ module.exports = {
     mainWWW: 'https://lunarflaregroup.com/',
     title: 'Lunar Flare ATM DCNFT NFT',
     links : {
-      opensea : "https://opensea.io/collection",
+      opensea : "https://opensea.io/collection/lfg-atm-nft",
       telegram : "https://t.me/LunarFlarePortal",
       twitter : "https://twitter.com/lunarflaregroup"
     },
-    maxMint: 3000,
+    maxMint: 10000,
     maxMintCount: 50,
     messagehash: '0x865f293da4a629f00bd8072be6115031c608fa4a13b819fd087811752fc8bb90',
     signatureBytes: '0x4b7715f34823936b045d1e5ca6c295b7f5ecff3d0c158118c71441ed217c3ddb026617ce49dc15781bdb25c8c34ed4a1f4d68df6080f6dd0004511cf05032bf01c',
